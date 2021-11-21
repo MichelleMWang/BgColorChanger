@@ -1,0 +1,29 @@
+.top-bar{
+    width: 100vw; 
+    background-color: white;
+    padding: 1rem; 
+}
+.logo {
+    color: lightskyblue; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+.main {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.background-text-display{
+    background: black; 
+    color: white; 
+    padding: 1rem; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.change-color-button{
+    background-color: white; 
+    color: lightskyblue; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    text-decoration: none;
+    padding: .5rem; 
+    border-color: lightskyblue; 
+}
